@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeleniumLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.560">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Verify_New_user_registration"
+                time="4.560"
+                classname="org.thetestingacademy.Selenium1">
+            </testcase>
+</testsuite>
